@@ -410,3 +410,5 @@ git push -u origin main
 - **Multi-Modal Diagnostics**: Allow users to drag-and-drop screenshots of Blue Screen of Death (BSOD) or hardware error dialogues for OCR/Vision analysis.
 - **Ticketing Integration**: Automatically generate ServiceNow or Jira Service Management API tickets when problems require Level 2 human technician escalation.
 - **Automated PowerShell Script Generator**: Generate verified, copy-pasteable PowerShell repair scripts for administrative users.
+
+link : https://ais-pre-bw7zdwmruyp56dl2bpbvxg-71712320395.asia-southeast1.run.app/
