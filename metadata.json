@@ -1,0 +1,6 @@
+{
+  "name": "AI IT Helpdesk Agent",
+  "description": "An agentic AI IT technical support helpdesk system built with LangGraph, LangChain, local Ollama LLM, RAG troubleshooting vector store, safe diagnostic tools, and persistent SQLite memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,29 @@
+# AI IT Helpdesk Agent - Dependencies
+# Python 3.11+ Recommended
+# Uses modern, non-deprecated LangChain v0.3+ and LangGraph v0.2+ APIs
+
+# Core LangChain & LangGraph
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.20
+
+# Ollama integration (official modern provider package)
+langchain-ollama>=0.2.0
+
+# Vector Database for Local RAG
+chromadb>=0.5.5
+
+# Embeddings (HuggingFace / Ollama fallback)
+sentence-transformers>=3.0.1
+langchain-huggingface>=0.1.0
+
+# Frontend UI
+streamlit>=1.38.0
+
+# Data Validation & Environment
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+
+# System Diagnostics Tools (Safe, non-invasive)
+psutil>=6.0.0
